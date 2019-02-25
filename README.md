@@ -44,8 +44,8 @@ Having documentation available to consume is a high-level requirement:
 >
 > But we need to go beyond: building a user-friendly version for final users, maintaining technical docs for devs, hosting source code, etc.
 
-With `adocs` we create documentation that can be published as rich documents for the web consumption.
+With `adocs` we create documentation that can be published as rich documents for web consumption.
 
-They're are also easy to read and write as Markdown, and hopefully compatible with most of VCS platforms so you can focus only on being creative.
+They're also easy to read and write as Markdown, and hopefully compatible with most of VCS platforms so you can focus only on being creative.
 
 We hope you enjoy!
